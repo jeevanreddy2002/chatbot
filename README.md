@@ -10,6 +10,7 @@ pip install numpy
 pip install keras
 pip install tensorflow
 pip install flask
+pip install wordnet
 ```
 
 Run the chatbot.py file to create the model
