@@ -89,6 +89,26 @@
   "responses": ["There are two basic types of bowlers – Pacers and spinners.They can be further divided into fast bowlers and swing bowlers in pacers and wrist spinners and finger spinners in the spin bowling department.There are two different types of bowling \n 1.Fast bowling  and its variations - Bouncer\nOutswinger(Link-https://www.youtube.com/watch?v=IfS_uW1dCQA)\nInswingers(Link-https://www.youtube.com/watch?v=Nwfzvl0Jpf8)\nReverse Swing\nLeg and Off Cutter(Off cutter-link-'https://www.youtube.com/watch?v=BgBc2r0U4oI&list=PLWgKm7kgxzCvvDpVco2GviFvi61l-z1xQ&index=29'--\nLeg cutter-'https://www.youtube.com/watch?v=1WDQptuUOwA&list=PLWgKm7kgxzCvvDpVco2GviFvi61l-z1xQ&index=32')\nYorker()\nSlower Ball.& \n 2.Spin Bowling and its variations - Leg Break and Off Break\nGoogly (Leg Spinner)\nDoosra (Off Spinner)\nTop spinner (Leg and Off Spin bowling)\nCarrom Ball (Off Spin bowling)\nSlider (Leg Spinner)\nArm Ball (Off Spin bowling)"]
   },
 
+  {"tag": "Famous Cricketrs",
+  "patterns":["What are the famous styles of the famous cricketers", "Famous cricketrs and their unique on-field manners", " "],
+  "responses":["M.S. Dhoni and his strapping of the gloves. \n Virat Kohli and his trademark bat twirl. \n Steve Smith's unique mannerisms - whenever he walks out ont the crease, he lifts up both his legs one after the other, left leg first and then the right. \n Virendra Sehwag's red handkerchief. \n Lasith Malinga's good-luck kiss. \n Sachin Tendulkar, he was famous for a plethora of on-field habits. He had a habit of ducking a little to adjust his cricket gear. Besides this, Sachin used to walk down the track and tap the area of the pitch where the ball was bowled. "],
+  },
+
+  {"tag":"World-Cup",
+  "patterns": ["How many world-cups are won by India?", "What are the teams with whom India won the world - cup?"],
+  "responses": ["The Indian cricket team are two times World Champions. In addition to winning the 1983 Cricket World Cup against West Indies, they won the 2011 Cricket World Cup on home soil against Sri Lanka. They were also runners-up at the 2003 Cricket World Cup, and semifinalists four times(1987, 1996, 2015, 2019)."],
+  },
+
+  {"tag":"T20s",
+  "patterns": ["How many T20s are won by India?", "What are the teams with whom India won the T20?"],
+  "responses": ["Total number of matches played by India in T20s are 187, out of which India won 120 matches,3 Tied, 59 Lost, and 5 No result matches. The win ratio of India is 67.03%. The teams against which India won the matches are Afghanistan, Australia, Bangladesh, England, Hong Kong, Ireland, Pakistan, South Africa, Sri Lanka, UAE, West Indies, Zimbabwe, Scotland, New Zealand, Netherlands, Namibia."],
+  },
+
+  {"tag":"Cricket Facts",
+  "patterns": ["Tell about some of the cricket facts.", "What are the facts about cricket ?"],
+  "responses": ["1. Shahid Afridi used Sachin Tendulkar's baat to hit the fastest ever ODI century. \n 2. Chris Gayle is the only batsman to hit a six off the first ball of a Test match. \n 3. Abbas Ali Baig was the first Indian cricketer to be kissed during a Test match. \n 4. Vinod Kambli's Test match average is better than his childhood friend Sachin Tendulkar. \n 5. Sunil Gavaskar was out off the first ball of a Test match thrice in his career. \n 6. ML Jaisimha and Ravi Shashtri are the only Indians to bat on all five days of a Test. \n 7. The only cricketer to play Test cricket for India and England is Saif Ali Khan's grandfather, Iftikhar Ali Khan Pataudi. \n 8. Lala Amarnath is the only bowler to dismiss Don Bradman hit wicket in Test cricket. \n 9. There's an uncanny similarity between the Indo-Pak match at the Australasia Cup of 1986 and Asia Cup 2014. \n 10. India won the 1983 World Cup and won their first ever Test at Lord's three years later in 1986. India won their second World Cup 28 years later in 2011 and remarkably won their second ever Test at Lord's three years later in 2014. \n 11. India is the only country to win the 60-over, 50-over and 20-over World Cup. \n 12. Alec Stewart was born on 8-4-63 and he scored 8463 Test runs. \n 13. Asif Karim of Kenya has played International cricket and Davis Cup for his country. \n 14. Wilfred Rhodes of England played Test cricket till he was 52! \n 15. Allan Border played 153 consecutive Test matches. \n 16. The only Indian Test cricketer to be knighted is Maharaja of Vizianagaram. \n 17. Australia beat England by 45 runs in the first ever cricket Test as well as the Centenary Test in 1977. \n 18. There's only one person who witnessed Jim Laker and Anil Kumble taking 10 wickets in an innings. \n 19. On the morning of 11/11/11 South Africa needed 111 runs to win at 11:11. \n 20. Peter Siddle is the only bowler to take a hat-trick on his birthday."],
+  },
+
   {"tag": "goodbye",
   "patterns": ["See you later","Goodbye","I am leaving","Have a Good Day","bye","see ya"],
   "responses": ["Sad to see you go :(","Talk you later","Goodbye"]
